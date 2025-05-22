@@ -7,8 +7,11 @@ Una empresa de comercio electrónico desea una interfaz web inicial que permita 
 En este proyecto podemos ver:
 
 Login (Inicio de sesión)
+
 Lista de usuarios
+
 Lista de productos
+
 Lista de carrito de compras
 
 🎨 Tecnologías Usadas
