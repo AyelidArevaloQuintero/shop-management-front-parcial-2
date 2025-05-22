@@ -12,6 +12,7 @@ Lista de productos
 Lista de carrito de compras
 
 🎨 Tecnologías Usadas
+
 ✅ HTML5 - Para la estructura de las páginas
 
 ✅ CSS3 - Para los estilos y diseño visual
