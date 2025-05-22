@@ -9,17 +9,17 @@ fetch('https://fakestoreapi.com/carts', {
 
 [
   {
-    "id": 0,
-    "userId": 0,
-    "products": [
-      {
-        "id": 0,
-        "title": "string",
-        "price": 0.1,
-        "description": "string",
-        "category": "string",
-        "image": "http://example.com"
-      }
-    ]
-  }
+  "id": 0,
+  "userId": 0,
+  "products": [
+    {
+      "id": 0,
+      "title": "string",
+      "price": 0.1,
+      "description": "string",
+      "category": "string",
+      "image": "http://example.com"
+    }
+  ]
+}
 ]
